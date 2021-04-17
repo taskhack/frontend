@@ -1,0 +1,88 @@
+body
+{
+	background-color: #E8E8E9; /* the grey background */
+}
+h1
+{
+	color:#173136; /* some black */
+	text-align: left;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 50px
+}
+.Getstarted
+{
+	background-color: #83C5F1; /* some blue */
+	border: 1px soild #707070; /* some black */
+	border-radius: 50%;
+	color: #173136; /* some black */
+	padding: 15px 35px;
+	text-align:left;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 16px;
+	transition-duration: 0.4s;
+}
+.Getstarted:hover
+{
+	background-color: #173136; /* some black */
+	border: 1px soild #707070; /* some black */
+	border-radius: 50%;
+	color: #83C5F1; /* some blue */
+	padding: 15px 35px;
+	text-align:left;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 16px;
+}
+.Home
+{
+	background-color: #E8E8E9; /* the grey background */
+	border: none;
+	float: right;
+	color: #707070; /* some drak grey*/
+	padding: 10px 24px;
+	text-align: center;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 16px;
+	transition-duration: 0.4s
+}
+.Features
+{
+	background-color: #E8E8E9; /* the grey background */
+	border: none;
+	float: right;
+	color: #707070; /* some drak grey*/
+	padding: 10px 24px;
+	text-align: center;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 16px;
+	transition-duration: 0.4s
+}
+.Login
+{
+	background-color: #E8E8E9; /* the grey background */
+	border: none;
+	float: right;
+	color: #707070; /* some drak grey*/
+	padding: 10px 24px;
+	text-align: center;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 16px;
+	transition-duration: 0.4s
+}
+.Sign_up
+{
+	background-color: #E8E8E9; /* the grey background */
+	border: none;
+	float: right;
+	color: #707070; /* some drak grey*/
+	padding: 10px 24px;
+	text-align: center;
+	font-family: Helvetica Neue, sans-serif;
+	font-size: 16px;
+	transition-duration: 0.4s
+}
+	
+
+	
+	
+	
+	
