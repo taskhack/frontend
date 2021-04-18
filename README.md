@@ -1,2 +1,2 @@
 # frontend
-A task management system for 
+A task management system for group collaboration
